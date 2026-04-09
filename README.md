@@ -7,8 +7,8 @@
 데이터를 통해 비즈니스를 이해하고 성장 기회를 발굴합니다.
 다양한 기법으로 인사이트를 도출하고, 누구나 이해할 수 있도록 전달하는 것을 중요하게 생각합니다.
 
-[![GitHub followers](https://img.shields.io/github/followers/YOUR_USERNAME?label=Follow&style=flat-square&color=4A90D9)](https://github.com/YOUR_USERNAME)
-[![Profile views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=flat-square&color=4A90D9)](https://github.com/YOUR_USERNAME)
+[![GitHub followers](https://img.shields.io/github/followers/yujinworld?label=Follow&style=flat-square&color=4A90D9)](https://github.com/yujinworld)
+[![Profile views](https://komarev.com/ghpvc/?username=yujinworld&style=flat-square&color=4A90D9)](https://github.com/yujinworld)
 
 </div>
 
@@ -70,9 +70,9 @@
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default&hide_border=true&count_private=true&include_all_commits=true&locale=kr" />
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=yujinworld&show_icons=true&theme=default&hide_border=true&count_private=true&include_all_commits=true&locale=kr" />
 &nbsp;&nbsp;
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=default&hide_border=true&langs_count=6" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yujinworld&layout=compact&theme=default&hide_border=true&langs_count=6" />
 
 </div>
 
