@@ -163,24 +163,7 @@ AI Engineer로 재직 중.
 
 금융 데이터 분석을 위한 Python 기초 실습 및 AWS EC2를 활용한 자동 트레이딩 시스템 구현 실습 멘토링을 담당하였습니다.
 
----
 
-## GitHub 통계
-
-<div align="center">
-
-<a href="https://github.com/yujinworld">
-  <img src="https://github-readme-stats.vercel.app/api?username=yujinworld&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&title_color=2C5282&icon_color=2C5282&bg_color=ffffff" height="160" alt="GitHub Stats" />
-</a>
-
-</div>
-
-<div align="center">
-
-
-</div>
-
-<br/>
 
 <!-- Footer -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:c9d4e0,100:e8ecf0&height=100&section=footer" width="100%" />
