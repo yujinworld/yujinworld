@@ -172,17 +172,11 @@ AI Engineer로 재직 중.
 <a href="https://github.com/yujinworld">
   <img src="https://github-readme-stats.vercel.app/api?username=yujinworld&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&title_color=2C5282&icon_color=2C5282&bg_color=ffffff" height="160" alt="GitHub Stats" />
 </a>
-<a href="https://github.com/yujinworld">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yujinworld&layout=compact&hide_border=true&langs_count=6&title_color=2C5282&bg_color=ffffff" height="160" alt="Top Languages" />
-</a>
 
 </div>
 
 <div align="center">
 
-<a href="https://github.com/yujinworld">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yujinworld&hide_border=true&ring=2C5282&fire=2C5282&currStreakLabel=2C5282" alt="GitHub Streak" />
-</a>
 
 </div>
 
