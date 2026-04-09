@@ -3,7 +3,6 @@
 
 <br/>
 
-<!-- Intro -->
 <div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=Noto+Sans+KR&weight=600&size=18&duration=3000&pause=1200&color=2C5282&center=true&vCenter=true&width=600&lines=Data+Analyst+%26+AI+Engineer;Megazone+Cloud+AIR+ops;%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%A1%9C+%EB%B9%84%EC%A6%88%EB%8B%88%EC%8A%A4+%EA%B8%B0%ED%9A%8C%EB%A5%BC+%EB%B0%9C%EA%B5%B4%ED%95%A9%EB%8B%88%EB%8B%A4." alt="Typing SVG" />
@@ -11,7 +10,7 @@
 <br/><br/>
 
 [![Gmail](https://img.shields.io/badge/kujin920@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:kujin920@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/yujinworld)
+[![GitHub](https://img.shields.io/badge/yujinworld-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/yujinworld)
 [![Profile Views](https://komarev.com/ghpvc/?username=yujinworld&style=flat-square&color=4A90D9&label=Profile+Views)](https://github.com/yujinworld)
 
 </div>
@@ -26,11 +25,9 @@
 
 다양한 기법을 활용하여 인사이트를 도출하고, 이를 누구나 이해할 수 있도록 전달하는 역량을 갖추고 있습니다.
 
-하나은행 주관 Digital Hana 路 과정에서 기수 1위 및 최우수 수료를 달성했으며,
-비전공자 출신으로 200명 이상의 프로그래밍 동아리 회장을 맡아 이끌고, 전국 단위 공모전 2회 수상을 통해 성과를 증명했습니다.
+하나은행 주관 Digital Hana 路 과정에서 기수 1위 및 최우수 수료를 달성했으며, 비전공자 출신으로 200명 이상의 프로그래밍 동아리 회장을 맡아 이끌고, 전국 단위 공모전 2회 수상을 통해 성과를 증명했습니다.
 
-기획부터 분석, 그리고 이해관계자와의 커뮤니케이션까지
-비즈니스를 기반으로 모든 과정을 완결성 있게 수행하는 분석가로 성장해 나가겠습니다.
+기획부터 분석, 그리고 이해관계자와의 커뮤니케이션까지 비즈니스를 기반으로 모든 과정을 완결성 있게 수행하는 분석가로 성장해 나가겠습니다.
 
 ---
 
@@ -41,8 +38,8 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Scikit--learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![XGBoost](https://img.shields.io/badge/XGBoost-FF6600?style=flat-square&logo=xgboost&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-FF6600?style=flat-square&logoColor=white)
 
 **데이터베이스 · 쿼리**
 
@@ -56,7 +53,7 @@
 
 **클라우드 · 인프라**
 
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 ---
@@ -65,78 +62,138 @@
 
 ![빅데이터분석기사](https://img.shields.io/badge/빅데이터분석기사-0066CC?style=flat-square&logo=databricks&logoColor=white)
 ![ADsP](https://img.shields.io/badge/데이터분석준전문가_ADsP-0066CC?style=flat-square&logo=databricks&logoColor=white)
-![AWS AI Practitioner](https://img.shields.io/badge/AWS_AI_Practitioner-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
+![AWS AI Practitioner](https://img.shields.io/badge/AWS_AI_Practitioner-FF9900?style=flat-square&logo=amazonwebservices&logoColor=white)
 
 ---
 
 ## Journey · 걸어온 길
 
-### 🏢 경력
+<br/>
 
-| 기간 | 소속 | 역할 |
-|------|------|------|
-| 2026.02 ~ 현재 | 메가존클라우드 AIR ops | AI Engineer |
-| 2025.11 ~ 2026.01 | 메가존클라우드 AIR Strategy | AI/ML Engineer Intern |
-| 2024.01 ~ 2024.06 | 뉴스젤리 기획팀 | 브랜드 마케터 |
+### ◆ 경력
 
-**메가존클라우드 AIR ops** `2026.02 ~ 현재`
+<br/>
+
+**메가존클라우드 AIR ops · AI Engineer**
+
+<img src="https://img.shields.io/badge/2026.02_~_현재-2C5282?style=flat-square&logoColor=white" />
+<img src="https://img.shields.io/badge/재직중-e8f4fd?style=flat-square&color=e8f4fd&labelColor=e8f4fd" />
 
 AI Engineer로 재직 중.
 
-**뉴스젤리 기획팀** `2024.01 ~ 2024.06`
+<br/>
+
+**메가존클라우드 AIR Strategy · AI/ML Engineer Intern**
+
+<img src="https://img.shields.io/badge/2025.11_~_2026.01-6b7280?style=flat-square&logoColor=white" />
+<img src="https://img.shields.io/badge/12주_인턴십-f3f4f6?style=flat-square&color=f3f4f6&labelColor=f3f4f6" />
+
+<br/>
+
+**뉴스젤리 기획팀 · 브랜드 마케터**
+
+<img src="https://img.shields.io/badge/2024.01_~_2024.06-6b7280?style=flat-square&logoColor=white" />
 
 '데이터 시각화의 모든 것' 커뮤니티 관리 및 주간 콘텐츠 발행.
+
 시각화 뉴스 클리핑·리서치 및 기업 블로그 기획 콘텐츠 발행.
 
 ---
 
-### 🎓 교육
+### ◆ 교육
 
-**Digital Hana 路 데이터 분석·서비스 기획 4기** `2024.08 ~ 2025.02`
-`기수 1등 · 최우수 수료`
+<br/>
 
-7개 시나리오 기반 데이터 분석 프로젝트 전 과정 수행.
-종합 평가 1위(97.76점) 달성 및 최우수 수료자 선정.
-Python·Figma 교육 이수.
+**Digital Hana 路 데이터 분석·서비스 기획 4기**
 
----
+<img src="https://img.shields.io/badge/2024.08_~_2025.02-6b7280?style=flat-square" />
+<img src="https://img.shields.io/badge/기수_1등-3b6d11?style=flat-square&color=eaf3de&labelColor=eaf3de" />
+<img src="https://img.shields.io/badge/최우수_수료-3b6d11?style=flat-square&color=eaf3de&labelColor=eaf3de" />
 
-### 🏆 수상
+하나은행 주관 데이터 분석 및 서비스 기획 과정을 2024년 8월부터 2025년 2월까지 총 963시간에 걸쳐 이수하였습니다.
 
-**날씨 빅데이터 콘테스트 안전·방재 분야 장려상** `2025.08`
+금융 데이터 분석, 고객 세그먼테이션, 마케팅 효과 측정, 서비스 기획 등 다양한 도메인을 다루는 실무 중심의 교육 프로그램으로, 비즈니스 문제를 데이터로 해결하는 역량 전반을 훈련하였습니다.
 
-기상·재난 데이터와 고령자 인구 데이터를 결합한 멀티소스 분석.
-XGBoost 기반 일일 신고건수 예측 모델 개발 및 대시보드 구현.
+전 과정에 걸쳐 총 7개의 시나리오 기반 프로젝트를 수행하였으며, 데이터 수집·전처리·분석·시각화·인사이트 도출의 전 과정을 직접 수행하였습니다.
 
-**춘천시 생성형 AI 아이디어 경진대회 3위 (장려)** `2025.06`
-
-상담·정보·AI 문서 자동생성·성공 예측 4개 전문 에이전트 기반 플랫폼 설계.
-청년 창업 지원 특화 플랫폼 Blueming 기획·프로토타입 개발 및 시연.
+Python을 활용한 데이터 분석 역량과 Figma를 활용한 서비스 기획 역량을 병행하여 함양하였고, 최종 종합 평가 97.76점으로 기수 전체 1등 및 최우수 수료자로 선정되었습니다.
 
 ---
 
-### 📄 논문
+### ◆ 수상
 
-**저성능 LLM 집단 vs 단일 고성능 LLM 주가 예측 정확성 비교** `2025.12` `제2저자`
+<br/>
 
-저성능 LLM 다수의 앙상블이 단일 고성능 LLM을 압도하는 주가 예측 성능 달성.
-현재 AI 업계의 Agent Teams·Sub-agents 아키텍처와 맥락을 같이하는 선행 연구.
-KSC 학부생 논문 발표 poster session 게재.
+**날씨 빅데이터 콘테스트 · 안전·방재 분야**
+
+<img src="https://img.shields.io/badge/2025.08-6b7280?style=flat-square" />
+<img src="https://img.shields.io/badge/한국기상산업기술원-f3f4f6?style=flat-square&color=f3f4f6&labelColor=f3f4f6" />
+<img src="https://img.shields.io/badge/장려상-185fa5?style=flat-square&color=e6f1fb&labelColor=e6f1fb" />
+
+기상 및 재난 데이터와 고령자 인구 분포 데이터를 결합한 멀티소스 분석을 설계하였습니다.
+
+지역별 기상 조건과 인구 특성에 따른 안전 신고건수의 패턴을 분석하고, XGBoost 알고리즘 기반 일일 신고건수 예측 모델을 개발하였습니다.
+
+예측 결과를 현장 대응 인력이 직접 활용할 수 있도록 운영 대시보드 형태로 구현하였습니다.
+
+<br/>
+
+**춘천시 생성형 AI 아이디어 경진대회 · 3위**
+
+<img src="https://img.shields.io/badge/2025.06-6b7280?style=flat-square" />
+<img src="https://img.shields.io/badge/춘천시-f3f4f6?style=flat-square&color=f3f4f6&labelColor=f3f4f6" />
+<img src="https://img.shields.io/badge/장려상-185fa5?style=flat-square&color=e6f1fb&labelColor=e6f1fb" />
+
+청년 창업 지원 특화 플랫폼 Blueming을 기획하고 프로토타입을 개발하여 시연하였습니다.
+
+창업 상담, 정보 제공, AI 문서 자동생성, 성공 가능성 예측의 네 가지 기능을 전담하는 전문 에이전트를 각각 설계하고, 이를 하나의 플랫폼 안에 통합하는 구조를 제안하였습니다.
+
+기획부터 프로토타입 시연까지 전 과정을 직접 수행하며 기획자와 분석가로서의 역량을 동시에 발휘하였습니다.
 
 ---
 
-### 🤝 활동
+### ◆ 논문
 
-**한양대학교 프로그래밍 동아리 FORIF 회장** `2023.09 ~ 2023.12`
+<br/>
 
-동아리 인사·운영 구조 개편을 통한 구성원 학과 다양성 증대.
-홈커밍데이 최초 시행, 교내 알고리즘 경진대회 개최, 타 동아리 협업 추진.
-Python·SQL 데이터 분석 세션 및 Tableau BI 세션 멘토 역임.
+**저성능 LLM 집단 vs 단일 고성능 LLM 주가 예측 정확성 비교**
 
-**한양대학교 금융공학학회 HYFE 퀀트팀 세션장 (33기)** `2023.09 ~ 2023.12`
+<img src="https://img.shields.io/badge/2025.12-6b7280?style=flat-square" />
+<img src="https://img.shields.io/badge/KSC_학부생_논문-533ab7?style=flat-square&color=eeedfe&labelColor=eeedfe" />
+<img src="https://img.shields.io/badge/제2저자-533ab7?style=flat-square&color=eeedfe&labelColor=eeedfe" />
 
-금융 데이터 분석을 위한 Python 기초 실습 멘토링.
-AWS EC2를 활용한 자동 트레이딩 시스템 구현 실습 멘토링.
+저성능 LLM 다수의 집단과 단일 고성능 LLM의 주가 예측 정확성을 비교하는 연구로, 한국정보과학회(KSC) 학부생 논문 발표 포스터 세션에 제2저자로 참여하였습니다.
+
+연구 결과, 개별 성능이 낮은 LLM 여러 개를 앙상블 방식으로 협력시켰을 때 단일 고성능 LLM 단독 사용 대비 주가 예측 정확도에서 압도적인 성능 우위를 확인하였습니다.
+
+현재 AI 업계의 Agent Teams·Sub-agents 아키텍처와 맥락을 같이하는 선행 연구로, 다수의 전문화된 에이전트가 협력하는 구조의 우수성을 선제적으로 탐색하였습니다.
+
+---
+
+### ◆ 활동
+
+<br/>
+
+**한양대학교 프로그래밍 동아리 FORIF · 회장 및 멘토**
+
+<img src="https://img.shields.io/badge/2022.09_~_2024.06-6b7280?style=flat-square" />
+<img src="https://img.shields.io/badge/회장-185fa5?style=flat-square&color=e6f1fb&labelColor=e6f1fb" />
+<img src="https://img.shields.io/badge/데이터_분석_멘토-185fa5?style=flat-square&color=e6f1fb&labelColor=e6f1fb" />
+<img src="https://img.shields.io/badge/데이터_시각화_멘토-185fa5?style=flat-square&color=e6f1fb&labelColor=e6f1fb" />
+
+기존 인사 체계를 전면 개편하고 부원 모집 프로세스를 개선한 결과, 지원자 대비 실제 부원 수를 100% 증대시키는 성과를 달성하였습니다.
+
+동아리 역사상 최초로 홈커밍데이를 기획·시행하였고, 교내 알고리즘 경진대회를 직접 개최하였으며, 타 동아리와의 협업 프로젝트를 추진하였습니다.
+
+데이터 분석 세션(Python·SQL)과 데이터 시각화 세션(Tableau) 두 분야의 멘토를 담당하였으며, 기초부터 실전 프로젝트 및 공모전 참가 연계까지 단계적 커리큘럼을 운영하였습니다.
+
+<br/>
+
+**한양대학교 금융공학학회 HYFE · 퀀트팀 세션장 (33기)**
+
+<img src="https://img.shields.io/badge/2023.09_~_2023.12-6b7280?style=flat-square" />
+
+금융 데이터 분석을 위한 Python 기초 실습 및 AWS EC2를 활용한 자동 트레이딩 시스템 구현 실습 멘토링을 담당하였습니다.
 
 ---
 
