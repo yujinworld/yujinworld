@@ -11,8 +11,8 @@
 <br/><br/>
 
 [![Gmail](https://img.shields.io/badge/kujin920@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:kujin920@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/YOUR_USERNAME)
-[![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=flat-square&color=4A90D9&label=Profile+Views)](https://github.com/YOUR_USERNAME)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/yujinworld)
+[![Profile Views](https://komarev.com/ghpvc/?username=yujinworld&style=flat-square&color=4A90D9&label=Profile+Views)](https://github.com/yujinworld)
 
 </div>
 
@@ -144,9 +144,9 @@ AWS EC2를 활용한 자동 트레이딩 시스템 구현 실습 멘토링.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default&hide_border=true&count_private=true&include_all_commits=true&title_color=2C5282&icon_color=2C5282" height="160" />
+<img src="https://github-readme-stats.vercel.app/api?username=yujinworld&show_icons=true&theme=default&hide_border=true&count_private=true&include_all_commits=true&title_color=2C5282&icon_color=2C5282" height="160" />
 &nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=default&hide_border=true&langs_count=6&title_color=2C5282" height="160" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yujinworld&layout=compact&theme=default&hide_border=true&langs_count=6&title_color=2C5282" height="160" />
 
 </div>
 
